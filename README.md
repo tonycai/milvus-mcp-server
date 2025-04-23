@@ -100,4 +100,4 @@ See CLAUDE.md for known issues and best practices when working with this codebas
 
 ## License
 
-[License information]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
