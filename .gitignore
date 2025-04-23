@@ -30,9 +30,9 @@ env.bak/
 venv.bak/
 
 # Logs
-*.log
-logs/
-*.log.*
+server_fixed.log
+server.log
+server.pid
 
 # IDE
 .idea/
@@ -43,3 +43,24 @@ logs/
 # Temp files
 *.tmp
 .DS_Store
+
+# Test scripts
+basic_solution.py
+create_collection_directly.py
+create_mcp_collection.py
+direct_api.py
+direct_simple.py
+final_fix.py
+final_solution.py
+final_test.py
+fixed_vector.py
+insert_data_directly.py
+lite_test.py
+numpy_test.py
+simple_collection.py
+simplified_client.py
+success_test.py
+test_milvus_mcp.py
+working_example.py
+working_solution.py
+.mcp.json
